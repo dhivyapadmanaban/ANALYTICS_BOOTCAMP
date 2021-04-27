@@ -1,1 +1,1 @@
-# ANALYTICS_BOOTCAMP
+# kickstarter-analysis
