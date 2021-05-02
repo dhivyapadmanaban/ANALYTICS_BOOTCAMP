@@ -28,19 +28,19 @@ Some challenged encountered in this analysis:
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Outcomes based on Launch Date - Analysis conclusion
   1. Chances of campaing being successful are high if the campaigns are launched between May-June.
   2. Q1 and Q4 is not an ideal time to launch any new campaigns.
 
 
-- What can you conclude about the Outcomes based on Goals?
+- Outcomes based on Goals - Analysis conclusion
   1. Most of the plays campaigns are successfull if the goal amount is less than $10000.
   2. Most of the campaings are failed if the goal amount is more than $50000.
 
-- What are some limitations of this dataset?
+- Limitations of dataset
   1. This dataset contains "theatre" data from all over the world however some plays are popular in some countries while some are not, hence this dataset cannot mimic general theatre audience.
 
-- What are some other possible tables and/or graphs that we could create?
+- New tables/graph options
   1. Outcomes based on goal results are depicted well in stacked bar chart. 
   2. Theatre outcomes by launch date table can include country filter to determine success/fail based on region.
   3. New table / chart created to analyze canceled outcomes in theatre category.
